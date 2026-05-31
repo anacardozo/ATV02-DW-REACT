@@ -1,0 +1,18 @@
+.footerContent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 8rem;
+    border-top: 1px solid var(--bg-card);
+    font-family: var(--font-body);
+    font-weight: 700;
+    font-size: 1rem;
+    text-align: center;
+    padding: 2rem;
+    background-color: var(--third-color);
+    background: linear-gradient(to right, #f3b063, #cb94c7, #985fe6);
+    -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
