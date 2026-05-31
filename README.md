@@ -42,7 +42,7 @@ Certifique-se de ter o Node.js instalado em sua máquina.
 
 ```bash
 # 1. Clone o repositório
-git clone (cole o código da url)
+git clone [(https://github.com/anacardozo/ATV02-DW-REACT.git)]
 
 # 2. Acesse a pasta do projeto
 cd nome-do-projeto
